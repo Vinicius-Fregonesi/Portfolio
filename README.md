@@ -1,68 +1,40 @@
-# One Page Portfolio - Bento Box
+# Vinícius Olimpio - Desenvolvedor Júnior
 
-Este é um template simples e elegante de portfólio one-page no estilo Bento Box. Ideal para desenvolvedores e profissionais que desejam apresentar suas habilidades, projetos e informações de contato de forma clara e direta.
+📞 (17) 99154-2219 | ✉️ vinicius.olimpio@fatec.sp.gov.br | 🌎 Urupês - SP  
+[LinkedIn](www.linkedin.com/in/vinícius-f-6bb574155) | [GitHub](www.github.com/vinicius-fregonesi)
 
-## Tecnologias Utilizadas
+## Resumo
 
-- HTML5
-- CSS3
-- FontAwesome
+Profissional de tecnologia apaixonado e professor dedicado, graduado em Gestão da Tecnologia da Informação pela Fatec Catanduva, com experiência em educar e inspirar jovens mentes no campo do desenvolvimento de software. Atualmente buscando uma transição de carreira para focar diretamente no desenvolvimento de software, combinando minha sólida formação acadêmica e experiência prática como educador. Ao longo dos anos, adquiri proficiência em linguagens como C# e Python, bem como experiência sólida em frameworks como ASP.NET Core e Bootstrap. Meu compromisso com a excelência e aprendizado contínuo me motiva a buscar novos desafios na área de desenvolvimento de software.
 
-## Estrutura do Projeto
+## Habilidades e Competências
 
-### Arquivos e Pastas
+- **Linguagens de Programação:** Proficiente em C# e Python, com experiência no desenvolvimento de aplicações web e desktop.
+- **Frameworks e Tecnologias Web:** Experiência sólida em ASP.NET Core para o desenvolvimento de aplicações web escaláveis e eficientes. Conhecimento avançado em Bootstrap para criar interfaces responsivas e amigáveis.
+- **Banco de Dados:** Amplo conhecimento em SQL, com especialização em MySQL. Capacidade comprovada de projetar e gerenciar bancos de dados relacionais para aplicações web robustas.
+- **Integração de APIs:** Capacidade de integrar e consumir APIs utilizando jQuery, facilitando a comunicação entre sistemas e manipulação de dados de forma eficiente.
+- **Versionamento de Código:** Conhecimento básico em Git, com experiência na colaboração e controle de versão de projetos de desenvolvimento de software em equipe.
+- **Princípios de Programação Orientada a Objetos:** Experiência sólida em aplicar conceitos de POO no desenvolvimento de aplicações escaláveis e de fácil manutenção.
 
-- `index.html`: Estrutura principal do site.
-- `css/style.css`: Estilos principais do site.
-- `css/responsive.css`: Estilos responsivos para diferentes tamanhos de tela.
-- `image/sua-foto-perfil.png`: Imagem de perfil do usuário (substitua pelo seu).
-- `image/seu-projeto-destaque.png`: Imagem do projeto em destaque (substitua pelo seu).
+## Experiência
 
-### Estrutura HTML
+### Proz Educação (2024 - Presente)
+Professor de Desenvolvimento de Software  
+Professor responsável por disciplinas de desenvolvimento web (front e back-end) além de desenvolvimento mobile. Também responsável por formular provas, conduzir trabalhos e projetos com alunos.
 
-O site é dividido em três seções principais, cada uma representada por um widget:
+## Formação
 
-1. **Widget 1 (Topo)**
-   - Exibe informações do usuário, incluindo foto de perfil, nome, cargo e uma breve descrição.
-   - Exibe o último projeto do usuário com um link para acessar o site.
+- **Pós-graduação em Desenvolvimento Full Stack** (02/2024 - 02/2025) - Descomplica
+- **Tecnólogo em Gestão da Tecnologia da Informação** (06/2019 - 06/2023) - Fatec – Catanduva
+- **Técnico em Administração Integrado ao Ensino Médio** (01/2015 - 12/2017) - Etec Elias Nechar – Catanduva
 
-2. **Widget 2 (Centro)**
-   - Contém links para redes sociais.
-   - Lista das habilidades do usuário com ícones representativos.
+## Cursos Complementares
 
-3. **Widget 3 (Rodapé)**
-   - Descreve os serviços oferecidos pelo usuário.
-   - Informações de contato com um botão para iniciar uma conversa.
-
-## Como Usar
-
-1. Clone este repositório ou baixe os arquivos para o seu computador.
-2. Substitua as imagens de exemplo (`sua-foto-perfil.png` e `seu-projeto-destaque.png`) pelas suas próprias imagens.
-3. Atualize o conteúdo HTML com suas informações pessoais, projetos e detalhes de contato.
-4. Customize os estilos no arquivo `style.css` conforme necessário.
-5. Use o arquivo `responsive.css` para ajustar o design responsivo para diferentes dispositivos.
-
-## Fontes e Recursos
-
-- [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css): Biblioteca de ícones usada no site.
-- [Google Fonts - Open Sans](https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap): Fonte principal utilizada no site.
-
-## Contribuição
-
-Se você quiser contribuir com melhorias para este template, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-## Me Marque!
-
-Este template é livre para uso, mas adoraria ver como você o utiliza! Se você usar este template, por favor, me marque ou poste nas redes sociais e me marque:
-
-- [Instagram](https://www.instagram.com/riicardomoura/)
-- [TikTok](https://www.tiktok.com/@riicardomoura)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
+- **REST API’s com ASP NET CORE 5** - Udemy (18 horas)
+- **Implementando Bancos de Dados** - Fundação Bradesco (15 horas)
+- **Introdução a Redes de Computadores** - Fundação Bradesco (15 horas)
+- **C# Avançado** - Fundação Bradesco (8 horas)
+- **Segurança em Tecnologia da Informação** - Fundação Bradesco (12 horas)
+- **Modelagem de Dados** - Fundação Bradesco (8 horas)
 
 ---
-
-Feito com ❤️ por RICARDO MOURA DEV
